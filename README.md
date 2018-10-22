@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/pear/Spreadsheet_Excel_Writer.svg?branch=master)](https://travis-ci.org/pear/Spreadsheet_Excel_Writer)
+[![Build Status](https://travis-ci.org/sanmai/Spreadsheet_Excel_Writer.svg?branch=master)](https://travis-ci.org/sanmai/Spreadsheet_Excel_Writer)
 
 This package is [Spreadsheet_Excel_Writer](http://pear.php.net/package/Spreadsheet_Excel_Writer) and has been migrated from [svn.php.net](https://svn.php.net/repository/pear/packages/Spreadsheet_Excel_Writer).
 
